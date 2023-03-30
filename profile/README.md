@@ -11,3 +11,5 @@ FAQ:
 Send any questions to werner.weber[at]reactory.net.
 
 This is a passion project with a business goal in mind and has been used to build large applications during the development of the project and we delivered unprecedented speed and low cost.
+
+Please start with the pinned project [reactory-docs](https://github.com/reactorynet/reactory-docs)
